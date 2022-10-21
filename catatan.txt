@@ -1,0 +1,14 @@
+-variable-
+tidak boleh di awali dengan angka,tapi boleh mengandung angka
+
+-aritmatika-
+macam macam aritmatika ada 5 - + / % *
+
+-asignment-
+= , .= , -= , *= , /=, +=
+
+-perbandingan-
+<= , < , > , >= , == , !=
+
+-logika-
+&& , || , !

@@ -1,0 +1,55 @@
+-todo list basic PHP-
+
+==================================
+
+standart output php
+    ->echo,print,printr,vardump []
+
+Penulisan Sintaks PHP di dalam html
+    ->php di dalam Html []
+    ->Html di Dalam php []
+
+variabel dan tipedata
+    ->variabel []
+    ->tipedata []
+
+operator
+    ->aritmatika []
+    ->asignment []
+    ->perbandingan []
+    ->logika []
+
+==================================
+
+perulangan
+    ->for []
+    ->while []
+    ->do while []
+    ->foreach []
+
+perkondisian
+    ->if []
+    ->if else []
+
+function
+    ->function []
+
+array
+    ->array biasa []
+    ->array associative []
+
+==================================
+
+method get & post
+    ->GET []
+    ->POST []
+
+==================================
+
+CRUD
+    ->Create []
+    ->Read []
+    ->Update []
+    ->Delete []
+
+==================================
